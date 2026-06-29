@@ -1,0 +1,530 @@
+canonical_identifier: bkk:krp/KR3eh042/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh042/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 理虛元鑑
+  identifiers:
+    krp: KR3eh042
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh042.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh042_000-jc.yaml, hash: 'sha256:27fef4ca900ed06c59908ada21152d2de607e8e3e1c2341d3dd63986c0a3d19d'}
+  - {seq: 1, filename: KR3eh042_001-jc.yaml, hash: 'sha256:7181a320f0436d6dea64fe095666650b759b337356d49d05d26f25db6a1022bf'}
+  - {seq: 3, filename: KR3eh042_003-jc.yaml, hash: 'sha256:8fc44b94253cf4c2b37169246572194e071326226b725da9cb9a64495a352dcd'}
+  - {seq: 0, filename: KR3eh042_000-jc.yaml, hash: 'sha256:f5b6a3db3afab44df96f1fc1629dd744d6b987182c891c3b6764a9480fde88ef'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh042_000-jc.markers.yaml, hash: 'sha256:74f3c24034315b144827d481b8779acc8c4eed7daa3c5bb5e41bc7b704932d0d'}
+  - {seq: 1, role: markers, filename: assets/KR3eh042_001-jc.markers.yaml, hash: 'sha256:6ef1758a41c023b4f6e6c37b15b3449c183a52b6c7c1a6be64555665564316b8'}
+  - {seq: 3, role: markers, filename: assets/KR3eh042_003-jc.markers.yaml, hash: 'sha256:f640194865dd78d2efe4217f246be88b97a572f3df7079abd7e52244f8709c00'}
+  - {seq: 0, role: markers, filename: assets/KR3eh042_000-jc.markers.yaml, hash: 'sha256:74f3c24034315b144827d481b8779acc8c4eed7daa3c5bb5e41bc7b704932d0d'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh042_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 319
+  label: 陳序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh042_jc_000-d3.h1s1
+    span:
+    - front
+    - 319
+    - 619
+  label: 華序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh042_jc_000-d4.h1s1
+    span:
+    - front
+    - 619
+    - 1084
+  label: 柯序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh042_jc_000-d5.h1s1
+    span:
+    - front
+    - 1084
+    - 1488
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6.h1s1
+    span:
+    - body
+    - 0
+    - 10084
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d2
+    span:
+    - body
+    - 2
+    - 80
+  label: 治虛脈法總括
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d3
+    span:
+    - body
+    - 80
+    - 544
+  label: 治虛脈法分類
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d4
+    span:
+    - body
+    - 544
+    - 1179
+  label: 治虛有三本
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d5
+    span:
+    - body
+    - 1179
+    - 1454
+  label: 治虛二統
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d6
+    span:
+    - body
+    - 1454
+    - 1897
+  label: 陽虛三奪統於脾
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d7
+    span:
+    - body
+    - 1897
+    - 2112
+  label: 陰虛之症統於肺
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d8
+    span:
+    - body
+    - 2112
+    - 3105
+  label: 虛症有六因
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d9
+    span:
+    - body
+    - 3105
+    - 3216
+  label: 心腎論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d10
+    span:
+    - body
+    - 3216
+    - 3372
+  label: 心腎不交論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d11
+    span:
+    - body
+    - 3372
+    - 3776
+  label: 心腎不交與勞嗽總論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d12
+    span:
+    - body
+    - 3776
+    - 4032
+  label: 五交論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d13
+    span:
+    - body
+    - 4032
+    - 4277
+  label: 吐血論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d14
+    span:
+    - body
+    - 4277
+    - 4427
+  label: 紅症初起治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d15
+    span:
+    - body
+    - 4427
+    - 4894
+  label: 勞嗽症論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d16
+    span:
+    - body
+    - 4894
+    - 5079
+  label: 勞嗽初起治法
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d17
+    span:
+    - body
+    - 5079
+    - 5168
+  label: 乾咳嗽論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d18
+    span:
+    - body
+    - 5168
+    - 5312
+  label: 咳嗽痰中帶血珠血絲
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d19
+    span:
+    - body
+    - 5312
+    - 5510
+  label: 論勞嗽吐血能治不能治大旨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d20
+    span:
+    - body
+    - 5510
+    - 5723
+  label: 虛勞內熱骨蒸論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d21
+    span:
+    - body
+    - 5723
+    - 6214
+  label: 虛火伏火論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d22
+    span:
+    - body
+    - 6214
+    - 6531
+  label: 遺精夢泄論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d23
+    span:
+    - body
+    - 6531
+    - 6631
+  label: 腎痹論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d24
+    span:
+    - body
+    - 6631
+    - 6803
+  label: 白濁白淫論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d25
+    span:
+    - body
+    - 6803
+    - 6941
+  label: 女人虛勞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d26
+    span:
+    - body
+    - 6941
+    - 7248
+  label: 屍疰傳屍勞等症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d27
+    span:
+    - body
+    - 7248
+    - 7360
+  label: 虛勞當治其未成
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d28
+    span:
+    - body
+    - 7360
+    - 7538
+  label: 知節
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d29
+    span:
+    - body
+    - 7538
+    - 7701
+  label: 知防
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d30
+    span:
+    - body
+    - 7701
+    - 7831
+  label: 二護
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d31
+    span:
+    - body
+    - 7831
+    - 7993
+  label: 三候
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d32
+    span:
+    - body
+    - 7993
+    - 8223
+  label: 二守
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d33
+    span:
+    - body
+    - 8223
+    - 8385
+  label: 三禁
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d34
+    span:
+    - body
+    - 8385
+    - 8510
+  label: 四難
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d35
+    span:
+    - body
+    - 8510
+    - 8619
+  label: 勞傷非弱症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d36
+    span:
+    - body
+    - 8619
+    - 8720
+  label: 嘔吐見血非弱症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d37
+    span:
+    - body
+    - 8720
+    - 8845
+  label: 傷寒見血非弱症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d38
+    span:
+    - body
+    - 8845
+    - 9157
+  label: 腸風便血不同怯症
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d39
+    span:
+    - body
+    - 9157
+    - 9260
+  label: 陽虛陰症辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d40
+    span:
+    - body
+    - 9260
+    - 9936
+  label: 軟懶症辨
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eh042_jc_001-d6d41
+    span:
+    - body
+    - 9936
+    - 10084
+  label: 老年怯症難治說
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh042_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 5425
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eh042_jc_003-d7d2
+    span:
+    - body
+    - 2
+    - 1105
+  label: 虛勞本治方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh042_jc_003-d7d3
+    span:
+    - body
+    - 1105
+    - 5425
+  label: 治虛藥訛一十八辨
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eh042_jc_000-d8.h1s1
+    span:
+    - body
+    - 0
+    - 244
+  label: 柯跋
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh042_jc_000-d9.h1s1
+    span:
+    - body
+    - 244
+    - 459
+  label: 陳跋
+  type: section
+  level: 1
+hash: sha256:20e72474d990f5ec30edd7c488ad34d9d49d3e041c233fca634bb354917d4e0b
